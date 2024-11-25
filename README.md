@@ -1,5 +1,12 @@
 # Barrier
 
+# WARNING
+Barrier is no longer maintained and no longer receives improvements and security fixes.  
+The primary developers have moved to the [InputLeap project](https://github.com/input-leap/input-leap).  
+The newest release of InputLeap is [3.0.2](https://github.com/input-leap/input-leap/releases/tag/v3.0.2).  
+
+---
+
 Eliminate the barrier between your machines.
 Find [releases for windows and macOS here](https://github.com/debauchee/barrier/releases).
 Your distro probably already has barrier packaged for it, see [distro specific packages](#distro-specific-packages)
